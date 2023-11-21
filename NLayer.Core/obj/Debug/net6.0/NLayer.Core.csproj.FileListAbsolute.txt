@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
