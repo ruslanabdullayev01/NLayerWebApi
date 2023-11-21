@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj": {}
+    "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj": {
+    "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj",
+        "projectUniqueName": "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj",
         "projectName": "NLayer.Caching",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj",
+        "projectPath": "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Caching\\NLayer.Caching.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Caching\\obj\\",
+        "outputPath": "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Caching\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

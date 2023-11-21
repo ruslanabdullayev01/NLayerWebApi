@@ -9,3 +9,15 @@ C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NL
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.sourcelink.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll

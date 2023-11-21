@@ -13,3 +13,19 @@ C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.sourcelink.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll

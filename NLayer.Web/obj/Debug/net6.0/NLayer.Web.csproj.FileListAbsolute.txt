@@ -36,3 +36,42 @@ C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\refint
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\appsettings.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.staticwebassets.runtime.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.exe
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.deps.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.runtimeconfig.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Core.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Service.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Service.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Core.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Repository.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.AssemblyReference.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.AssemblyInfoInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.AssemblyInfo.cs
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.RazorAssemblyInfo.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.RazorAssemblyInfo.cs
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.sourcelink.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.NLayer.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.NLayer.Web.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.Web.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NLayer.Web.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\scopedcss\bundle\NLayer.Web.styles.css
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\scopedcss\projectbundle\NLayer.Web.bundle.scp.css
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.CopyComplete
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\refint\NLayer.Web.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll

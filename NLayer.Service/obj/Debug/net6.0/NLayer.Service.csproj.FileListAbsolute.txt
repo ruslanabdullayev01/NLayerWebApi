@@ -15,3 +15,21 @@ C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NL
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.sourcelink.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll

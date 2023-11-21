@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj",
+      "projectUniqueName": "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj",
       "projectName": "NLayer.Core",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj",
+      "projectPath": "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Core\\NLayer.Core.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\ASP.NET\\NLayerUdemyApp\\NLayer.Core\\obj\\",
+      "outputPath": "E:\\Desktop Projects\\NLayerUdemyApp\\NLayer.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

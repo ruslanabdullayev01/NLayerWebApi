@@ -36,3 +36,42 @@ C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\refint
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.exe
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.deps.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.runtimeconfig.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.AssemblyReference.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfoInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfo.cs
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CoreCompileInputs.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.sourcelink.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.NLayer.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.build.NLayer.API.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.API.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NLayer.API.props
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\scopedcss\bundle\NLayer.API.styles.css
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CopyComplete
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\refint\NLayer.API.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
