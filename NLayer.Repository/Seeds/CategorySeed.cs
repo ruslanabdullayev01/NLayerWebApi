@@ -10,9 +10,9 @@ using System.Xml.Linq;
 
 namespace NLayer.Repository.Seeds
 {
-    public class CategorySeed : IEntityTypeConfiguration<CategorySeed>
+    public class CategorySeed : IEntityTypeConfiguration<Category>
     {
-        public void Configure(EntityTypeBuilder<CategorySeed> builder)
+        public void Configure(EntityTypeBuilder<Category> builder)
         {
             builder.HasData(new Category { Id = 1, Name = "Books" },
                             new Category { Id = 2, Name = "Notebooks" },
