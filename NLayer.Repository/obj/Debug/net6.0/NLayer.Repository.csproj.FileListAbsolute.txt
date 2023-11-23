@@ -14,6 +14,7 @@ C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
 C:\Users\Admin\Desktop\ASP.NET\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
@@ -28,6 +29,5 @@ E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Rep
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
-E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
-E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll

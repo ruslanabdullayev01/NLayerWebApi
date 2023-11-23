@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NLayer.Caching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a040ba2c99257d8846acfa94fa991bad114ecf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dde55efdee5c2f08e3257988253dfb6882131daa")]
 [assembly: System.Reflection.AssemblyProductAttribute("NLayer.Caching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NLayer.Caching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
