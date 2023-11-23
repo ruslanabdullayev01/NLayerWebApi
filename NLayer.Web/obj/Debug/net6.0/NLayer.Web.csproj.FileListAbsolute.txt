@@ -108,3 +108,7 @@ E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\refint\NLayer.Web
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
