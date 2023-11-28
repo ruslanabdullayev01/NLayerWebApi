@@ -115,3 +115,5 @@ E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.
 E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Autofac.dll
 E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Caching.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Caching.pdb

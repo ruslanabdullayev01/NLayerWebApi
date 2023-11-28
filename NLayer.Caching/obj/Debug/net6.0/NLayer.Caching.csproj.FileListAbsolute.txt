@@ -21,3 +21,11 @@ E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Cachin
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
 E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Core.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Repository.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Service.dll
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Service.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Core.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Repository.pdb
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
+E:\Desktop Projects\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CopyComplete
